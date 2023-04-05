@@ -7,6 +7,13 @@ body{
     text-align: center;
     display: inline;
     font-size: 14px;
+    position: absolute;
+    width: 1319px;
+    height: 162px;
+    left: 91px;
+    top: 37px;
+
+    background: linear-gradient(177.01deg, #12CDAB 38.71%, rgba(18, 205, 171, 0) 107.4%);
     }
     h3{
     font-family: 'Lucida Sans';
@@ -31,4 +38,12 @@ body{
     }
     .itens {
     background-color: rgb(211, 204, 174);
+    
+    position: absolute;
+    width: 1319px;
+    height: 162px;
+    left: 91px;
+    top: 37px;
+
+    background: linear-gradient(177.01deg, #12CDAB 38.71%, rgba(18, 205, 171, 0) 107.4%);
     }
