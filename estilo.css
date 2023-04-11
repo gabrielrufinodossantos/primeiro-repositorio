@@ -1,3 +1,20 @@
+.cabec{
+    position: absolute;
+width: 1312px;
+height: 177px;
+left: 91px;
+top: 37px;
+
+background: linear-gradient(177.01deg, #12CDAB 38.71%, rgba(18, 205, 171, 0) 107.4%);
+}
+.avatar{
+    position: absolute;
+width: 122px;
+height: 114px;
+left: 312px;
+top: 68px;
+
+}
 body{
 <<<<<<< HEAD
     background-color:rgb(100, 160, 155);
