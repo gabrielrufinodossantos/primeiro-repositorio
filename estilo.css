@@ -53,3 +53,11 @@
 .estudante-div{
     text-align: center;
 }
+
+.estudante-titulo{
+    text-align: center;
+}
+
+.estudante-todos{
+    display: grid;
+}
