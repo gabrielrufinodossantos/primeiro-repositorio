@@ -63,3 +63,7 @@
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
+.rodape{
+    background-color: #3A2C8F;
+}
