@@ -4,7 +4,7 @@
 }
 
 .cabec {
-    background-color: rgb(23, 219, 193);
+    background-color: #38C6AC;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -27,5 +27,5 @@
 }
 
 .escola{
-    background-image: linear-gradient(rgb(23, 219, 193,));
+    background-image: linear-gradient(#38C6AC,#3A2C8F);
 }
