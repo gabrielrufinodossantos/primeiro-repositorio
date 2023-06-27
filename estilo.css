@@ -61,3 +61,25 @@ height: 148px;
 flex-shrink: 0;
 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+
+.rodapé{
+    width: 1182px;
+height: 138px;
+flex-shrink: 0;
+background: linear-gradient(360deg, rgba(141, 198, 184, 0.40) 32.81%, rgba(141, 198, 184, 0.00) 100%);
+}
+
+.rodapé-texto{
+    display: flex;
+width: 384.901px;
+height: 128px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 23.678px;
+font-family: Inter;
+
+color: #000;
+font-size: 23.678px;
+font-family: Inter;
+}
