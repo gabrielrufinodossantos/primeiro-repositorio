@@ -13,6 +13,7 @@
     width: 1182px;
     height: 184px;
     flex-shrink: 0;
+    background: #7EB5C7;
 }
 .cabecalho-texto{
     display: flex;
