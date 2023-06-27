@@ -10,8 +10,8 @@
     font-family: Inter;
 }
 .cabecalho{
-    width: 1182px;
-    height: 184px;
+    width: 166px;
+    height: 161px;
     flex-shrink: 0;
     background: #7EB5C7;
 }
@@ -25,44 +25,17 @@
 }
 
 .corpo{
-    width: 1182px;
-height: 630px;
-flex-shrink: 0;
-background: linear-gradient(180deg, #7EB5C7 72.92%, rgba(18, 205, 171, 0.00) 100%);
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30%;
 }
-
-.corpo-img{
-    width: 242px;
-height: 170px;
-flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-
-width: 272px;
-height: 172px;
-flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-
-width: 266px;
-height: 170px;
-flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-
-width: 250px;
-height: 140px;
-flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-
-width: 272px;
-height: 157px;
-flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-
-width: 266px;
-height: 148px;
-flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+.corpo-itens{
+    text-align: center;
+    padding: 16px 0;
 }
-
+.corpo-itens-img{
+    width: 384px;
+}
 .rodapé{
     width: 1182px;
 height: 138px;
