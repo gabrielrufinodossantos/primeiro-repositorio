@@ -80,9 +80,3 @@ color: #000;
 font-size: 23.678px;
 font-family: Inter;
 }
-
-.cabecalho-img{
-    width: 300px;
-    height: 161px;
-    flex-shrink: 0
-}
