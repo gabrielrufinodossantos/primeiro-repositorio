@@ -42,7 +42,7 @@
     flex-shrink: 0;
     position: absolute;
     top: 600px;
-    right: 0;
+    right: 36;
 }
 .corpo{
     display: grid;
