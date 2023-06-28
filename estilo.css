@@ -22,13 +22,13 @@
 }
 .cabecalho-img{
     width: 200px;
-    height: 73px;
+    height: 210px;
     flex-shrink: 0;
 }
 .cabecalho-texto1{
     display: flex;
     width: 719.672px;
-    height: 138.191px;
+    height: 200.191px;
     transform: rotate(0.379deg);
     flex-direction: column;
     flex-shrink: 0;
