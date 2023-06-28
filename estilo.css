@@ -20,6 +20,11 @@
     flex-shrink: 0;
     background: #7EB5C7;
 }
+.cabecalho-img{
+    width: 166px;
+    height: 161px;
+    flex-shrink: 0;
+}
 .cabecalho-texto1{
     display: flex;
     width: 719.672px;
