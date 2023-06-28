@@ -40,6 +40,9 @@
     transform: rotate(0.379deg);
     flex-direction: column;
     flex-shrink: 0;
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 .corpo{
     display: grid;
