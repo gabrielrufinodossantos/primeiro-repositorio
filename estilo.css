@@ -24,6 +24,8 @@
     width: 221px;
     height: 197px;
     flex-shrink: 0;
+    left:180px;
+    top:50px;
 }
 .cabecalho-texto1{
     display: flex;
