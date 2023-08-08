@@ -1,6 +1,6 @@
 .menu{
     width: 1440px;
-    height: 30px;
+    height: 27px;
     flex-shrink: 0;
     background: #7EB5C7;
     position: absolute;
@@ -20,7 +20,7 @@
 }
 .cabecalho{
     width: 1440px;
-    height: 161px;
+    height: 170px;
     flex-shrink: 0;
     background: #7EB5C7;
 }
