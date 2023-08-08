@@ -1,6 +1,6 @@
 .menu{
     width: 1440px;
-    height: 27px;
+    height: 30px;
     flex-shrink: 0;
     background: #7EB5C7;
     position: absolute;
@@ -13,7 +13,7 @@
     margin: 0 18px;
     position: absolute;
     left: 1100p
-    
+
     width: 107px;
     height: 49px;
     flex-shrink: 0;
