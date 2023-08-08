@@ -13,6 +13,10 @@
     margin: 0 18px;
     position: absolute;
     left: 1100p
+    
+    width: 107px;
+    height: 49px;
+    flex-shrink: 0;
 }
 .cabecalho{
     width: 1440px;
